@@ -1,0 +1,8 @@
+
+GET https://api.weather.gov/points/41.8373,-87.6862 HTTP/1.1
+content-type: application/json
+
+
+
+GET https://api.weather.gov/gridpoints/LOT/73,70/forecast HTTP/1.1
+content-type: application/json
